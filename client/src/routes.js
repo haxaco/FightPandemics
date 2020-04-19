@@ -11,7 +11,6 @@ import Login from "./pages/Login";
 import NearestHospital from "./pages/NearestHospital";
 import CreatePost from "./pages/CreatePost";
 
-
 export const routes = [
   {
     path: "/",
